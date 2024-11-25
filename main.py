@@ -24,3 +24,7 @@ while True:
                 break
             else:
                 print("Weights do not sum to 713.")
+        else:
+            print("Incorrect locations.")
+    else:
+        print("Guesses must be distinct.")
